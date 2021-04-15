@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/1c33f8110173f4380515e.png">
+  <img src="https://telegra.ph/file/840ef518332319b060a21.jpg">
 </p>
 
 # Aura Bot
@@ -47,4 +47,4 @@ Aura Bot is powerful telegram bot. It is enough to manage your entire group.
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
 ## Credits 📍
-* Bot Credits Goes To <a  href="https://github.com/AnimeKaizoku" alt="Saitama Robot"> </a>
+* Bot Credits Goes To <a  href="https://github.com/AnimeKaizoku" alt="Saitama Robot"/> </a>
