@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://telegra.ph/file/1c33f8110173f4380515e.png">
 </p>
 
-# Saitama Robot
+# Aura Bot
 
 <p align="center">
-- x -|│  “	Just some code who is a bot for fun! ”  │| - x -
+- x -|│  “	A Powerful Bot Made For You! ”  │| - x -
 </p>
 
 <p align="center">
@@ -31,22 +31,20 @@
 </p>
 <p align="center">
 <a href="https://ko-fi.com/sawada" alt="Donate!"> <img src="https://aleen42.github.io/badges/src/paypal.svg" /> </a>
-<a href="https://t.me/OnePunchUpdates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://discord.animekaizoku.com" alt="Discord"> <img src="https://img.shields.io/discord/465068856692441090?style=flat&logo=discord&color=blue" /> </a>
-<a href="" alt="AnimeKaizoku"> <img src="https://img.shields.io/badge/Built%20by-Kaizoku-blue" /> </a>
+<a href="https://t.me/AuraBot_Updates" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/AnimeKaizoku/SaitamaRobot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 
 
-Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
+Aura Bot is powerful telegram bot. It is enough to manage your entire group.
 
-* Bot Link:  <a href="https://t.me/SaitamaRobot" alt="Saitama Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/OnePunchUpdates" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/Aura_Group_Bot" alt="Aura Bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
+* News channel: <a  href="https://t.me/AuraBot_Updates" alt="Aura Bot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+* Support channel: <a  href="https://t.me/Aura_Bot_Support" alt="Aura Support"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
 ## Credits 📍
-* Well, it's all in the commit history
-Feel free to open pull requests should any be missing.
+* Bot Credits Goes To <a  href="https://github.com/AnimeKaizoku" alt="Saitama Robot"> </a>
