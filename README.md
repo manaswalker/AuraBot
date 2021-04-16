@@ -40,9 +40,9 @@
 
 Aura Bot is powerful telegram bot. It is enough to manage your entire group.
 
-* Bot Link:  <a href="https://t.me/Aura_Group_Bot" alt="Aura Bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-SaitamaRobot-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraBot_Updates" alt="Aura Bot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
-* Support channel: <a  href="https://t.me/Aura_Bot_Support" alt="Aura Support"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/Aura_Group_Bot" alt="Aura Bot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Aura%20Bot-blue" /> </a>
+* News channel: <a  href="https://t.me/AuraBot_Updates" alt="Aura Bot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Aura%20Bot%20Updates-9cf" /> </a>
+* Support channel: <a  href="https://t.me/Aura_Bot_Support" alt="Aura Support"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-Aura%20Support-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animekaizoku/saitamarobot?color=white&label=%F0%9F%8C%9F%20star">
 
